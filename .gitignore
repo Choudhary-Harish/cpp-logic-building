@@ -1,0 +1,41 @@
+# Compiled C++ executables
+basics/hello
+basics/hello_world
+*.out
+*.exe
+*.o
+*.obj
+*.so
+*.a
+*.dll
+
+# Debug and build output
+build/
+cmake-build-*/
+debug/
+release/
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.Trash-*
