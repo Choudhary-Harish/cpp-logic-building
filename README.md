@@ -188,8 +188,8 @@ These topics are planned possibilities, not part of the current 100-program mile
 - [x] 100 C++ source programs created
 - [x] Programs organized by topic
 - [x] All 100 source files passed the C++17 syntax check
-- [ ] Individual runtime testing and edge-case review
-- [ ] Topic-wise problem indexes in each directory
+- [x] Individual runtime testing and edge-case review
+- [x] Topic-wise problem indexes in each directory
 - [ ] Future DSA problem collection
 
 ## Purpose
